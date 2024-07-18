@@ -42,9 +42,4 @@ nltk.download('punkt')
 nltk.download('wordnet') 
 ```
 
-
-You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
-* Through Terminal
-```
-python chatbot.py
 ```
